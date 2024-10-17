@@ -1,1 +1,1 @@
-SVOSH
+tsx-vite-template
