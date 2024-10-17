@@ -1,1 +1,1 @@
-tsx-vite-template
+TSX VITE TEMPLATE WITH FSD
